@@ -1,1 +1,1 @@
-# tips4sat.github.io
+# tips4sat
